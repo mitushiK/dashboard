@@ -79,7 +79,7 @@ const Modal = ({ orgUnits = [], handleDisplay, popupData }) => {
               data-dismiss="modal"
               onClick={() =>downloadPDF("printing1") }
             >
-            {<img width="30" height="30" src="https://img.icons8.com/color/30/pdf.png" alt="pdf" />}
+            {<img width="29" height="29" src="https://img.icons8.com/color/29/pdf.png" alt="pdf" />}
             </button>
             <button
               type="button"
